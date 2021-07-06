@@ -1,0 +1,50 @@
+body{
+    font-family: font-family: 'Poppins', sans-serif;
+}
+.top-banner{
+    background-image: url(images/shapes/Group\ 8450.png);
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size: 45%;
+
+}
+.mid-banner{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+h2{
+    font-size: 50px;
+
+}
+
+.half-width{
+    width: 50%;
+    padding: 2%;
+
+}
+
+.half-width img{
+    width: 100%;
+    position: relative;
+}
+
+.orange-color{
+    color: orangered;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 20px;
+   
+}
+.flexible-container{
+    display: flex;
+    margin: 100px;
+
+} 
