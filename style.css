@@ -9,12 +9,12 @@ body{
 
 }
 .mid-banner{
-    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-image: url(images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    
     
 }
-h2{
+h1{
     font-size: 50px;
 
 }
@@ -48,3 +48,11 @@ h2{
     margin: 100px;
 
 } 
+
+.recipie{
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+}
